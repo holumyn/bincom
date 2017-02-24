@@ -1,6 +1,5 @@
 Demo URL: demo.wealthinz.com/bincom
 
-Note: ReadMe file is on the demo URL and github
 ###General Information
 
 	Demo URL: demo.wealthinz.com/bincom

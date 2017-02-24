@@ -3,14 +3,12 @@ Demo URL: demo.wealthinz.com/bincom
 Note: ReadMe file is on the demo URL and github
 ###General Information
 
-	This application is designed as a project work for jace technologies
-	
 	Demo URL: demo.wealthinz.com/bincom
 
 	Database Config(.../application/config/database.php)
-	DB Name: jacedb (Create the DB and import the users.sql file)
-	DB Username: root
-	DB Password: empty
+	DB Name: ''
+	DB Username: ''
+	DB Password: ''
 
 	Github URL: https://github.com/holumyn/bincom.git
 

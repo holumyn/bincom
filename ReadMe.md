@@ -5,9 +5,9 @@ Note: ReadMe file is on the demo URL and github
 
 	This application is designed as a project work for jace technologies
 	
-	Demo URL: demo.wealthinz.com/bitcom
+	Demo URL: demo.wealthinz.com/bincom
 
-	Database Config(.../jace/application/config/database.php)
+	Database Config(.../application/config/database.php)
 	DB Name: jacedb (Create the DB and import the users.sql file)
 	DB Username: root
 	DB Password: empty
